@@ -1,4 +1,5 @@
-# chatgpt-interactions
+# chatgpt-interactions on learning sed
+
 All the Interactions which I've had with GPT for my coding needs
 
 
