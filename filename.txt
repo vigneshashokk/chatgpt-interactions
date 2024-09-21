@@ -1,0 +1,4 @@
+Hello old world
+This is an old text file.
+I like to play old games.
+Goodbye old world.
