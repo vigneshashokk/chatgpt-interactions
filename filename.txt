@@ -1,7 +1,7 @@
-Name,Age,Occupation
-Alice,30,Engineer
-Bob,25,Designer
-Charlie,35,Manager
-David,40,Developer
-Eve,29,Analyst
-Alice,30,Engineer
+# This is a sample text file
+Alice is 30 years old.
+Bob, the designer, likes 12345 and <tags>.
+The second line has multiple patterns: cat, dog, and bird.
+   Leading spaces and trailing spaces      
+Another line with a pattern: test this.
+Last line with some special characters: !@#$%^&*().
