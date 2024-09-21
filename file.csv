@@ -1,4 +1,7 @@
-name,age,city
-Alice,30,New York
-Bob,25,Los Angeles
-Charlie,35,Chicago
+Name,Age,Occupation
+Alice,30,Engineer
+Bob,25,Designer
+Charlie,35,Manager
+David,40,Developer
+Eve,29,Analyst
+Alice,30,Engineer
