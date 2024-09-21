@@ -1,4 +1,7 @@
-Hello old world
-This is an old text file.
-I like to play old games.
-Goodbye old world.
+Name,Age,Occupation
+Alice,30,Engineer
+Bob,25,Designer
+Charlie,35,Manager
+David,40,Developer
+Eve,29,Analyst
+Alice,30,Engineer
